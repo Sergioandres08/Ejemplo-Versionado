@@ -3,6 +3,3 @@ description: This action greets persons
 runs:
   using: node20
   main: src/index.js
-branding:
-  icon: 'crosshair'
-  color: 'green'
