@@ -1,0 +1,13 @@
+name: Sergio Roarbots Demo Action
+description: This action greets persons
+inputs:
+  person:
+    description: 'The person to greet'
+    required: true
+    default: 'Monolisa Octocat'
+runs:
+  using: node20
+  main: dist/index.js
+branding:
+  icon: 'crosshair'
+  color: 'green'
