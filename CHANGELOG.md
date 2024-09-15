@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.1.0...v1.2.0) (2024-09-15)
+
+
+### Features
+
+* Cambio del console.log ([d65a104](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/d65a10427108872b3766b2453a4ca3a98d1dec36))
+
 # [1.1.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.0.0...v1.1.0) (2024-09-15)
 
 
