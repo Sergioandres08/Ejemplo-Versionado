@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.0.0...v1.1.0) (2024-09-15)
+
+
+### Bug Fixes
+
+* fix ([cb76244](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/cb762442e39fcb4d9d2df74d3f4c010258c93342))
+* fix ([750981a](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/750981adaba95bbc637868262e33360aaf6d8db2))
+* fix console.log ([d2fc5d2](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/d2fc5d2a83c24d7708e9e7b404cb328c0bf8214c))
+
+
+### Features
+
+* changes ([7282fa5](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/7282fa5d40106dc6f8652e8f1c44b4d378d7276c))
+
 # 1.0.0 (2024-09-15)
 
 
