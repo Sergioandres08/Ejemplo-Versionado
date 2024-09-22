@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.6.0...v1.6.1) (2024-09-22)
+
+
+### Bug Fixes
+
+* cambio tercer console.log ([89ad3ff](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/89ad3ffcd16fe3a7b1c8920664a6d8874d5d2540))
+
 # [1.6.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.5.0...v1.6.0) (2024-09-22)
 
 
