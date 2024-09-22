@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.6.1...v2.0.0) (2024-09-22)
+
+
+### Features
+
+* cambio primer console.log ([39daa16](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/39daa1655781c9a33a64cdff051a3f489fb1aa47))
+* cambio segundo console.log ([0699aa7](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/0699aa77f0377dd1fea1bf45c36fa1c6a3ccea9b))
+* cambio tercer console.log ([5428523](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/542852312b1e9ccb6761d96ea5044a6d48d1b798))
+
+
+### BREAKING CHANGES
+
+* Se agregaron signos de exclamacion al primer console.log
+
 ## [1.6.1](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.6.0...v1.6.1) (2024-09-22)
 
 
