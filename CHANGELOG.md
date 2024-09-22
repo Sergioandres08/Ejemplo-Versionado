@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.4.0...v1.5.0) (2024-09-22)
+
+
+### Features
+
+* Agregado Console.log ([460a064](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/460a0641df1bb03f185113868ef12a104b361a79))
+* Agregado nuevo console.log (byebye) ([8ff3b85](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/8ff3b856c3719341dcefcd4d22cb0649c31756aa))
+
 # [1.4.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.3.0...v1.4.0) (2024-09-15)
 
 
