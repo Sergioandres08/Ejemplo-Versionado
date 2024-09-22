@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v3.1.0...v3.2.0) (2024-09-22)
+
+
+### Features
+
+* cambio console.log ([82d985b](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/82d985b6ace07beecd9f59e49d1c0f982b47dcaf))
+
 # [3.1.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v3.0.0...v3.1.0) (2024-09-22)
 
 
