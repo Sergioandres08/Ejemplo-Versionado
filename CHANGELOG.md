@@ -1,3 +1,12 @@
+# [3.4.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v3.3.0...v3.4.0) (2024-09-22)
+
+
+### Features
+
+* cambio release.config ([a36e22d](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/a36e22d5868fa9010641b213a504d99d115ffa71))
+* cambio release.config ([0abe718](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/0abe718edacb9dbabb4b289aba40f94f0a41fdf1))
+* change release ([6cc9bcb](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/6cc9bcbd36b6a84b2513af0707133e02bcbcea31))
+
 # [3.3.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v3.2.0...v3.3.0) (2024-09-22)
 
 
