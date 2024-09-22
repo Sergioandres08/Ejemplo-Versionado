@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.5.0...v1.6.0) (2024-09-22)
+
+
+### Features
+
+* Exclamacion removida segundo console.log ([39c2506](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/39c2506f3b28d46b92b1de1d7e721e50d90de7c3))
+* Exlamacion removida tercer console.log ([780d8a8](https://github.com/Sergioandres08/Ejemplo-Versionado/commit/780d8a87626d3dc677aabf65c6e5a84911f7dd7d))
+
 # [1.5.0](https://github.com/Sergioandres08/Ejemplo-Versionado/compare/v1.4.0...v1.5.0) (2024-09-22)
 
 
